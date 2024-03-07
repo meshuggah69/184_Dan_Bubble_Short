@@ -39,7 +39,7 @@ void display() {             //Prosedur untuk menampilkan hasil
     }
     cout << endl;                                         //Output baris kosong
 }
-void BubbleSortArray() {                                 //Prosedur untuk mengurutkan array dengan metode bublle short
+void BubbleSortArray() {                                  //Prosedur untuk mengurutkan array dengan metode bublle short
     int pass = 1;                                         //Step 1
 
     for (pass; pass <= n - 1; pass++) {                   //Looping dengan i dimulai dari 1 hingga n-1
