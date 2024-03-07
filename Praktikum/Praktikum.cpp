@@ -39,3 +39,7 @@ void display() {             //Prosedur untuk menampilkan hasil
     }
     cout << endl;                                         //Output baris kosong
 }
+void BubbleShortArray() {
+    int pass = 1;
+
+   
